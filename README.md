@@ -1,3 +1,7 @@
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/2a7c6295-0681-498e-b0f6-007ac57ce41e" />
+
+<<<<<<< HEAD
+
 # RETO-TC3007C
 
 ## ¿Qué se atendió en la retroalimentación?
@@ -67,114 +71,20 @@ La arquitectura ahora está alineada con:
 
 Después de recibir la retroalimentación, reestructuramos completamente el entregable. Pasamos de un notebook difícil de seguir a un conjunto de reportes formales, documentados, trazables y separados del código. Esto resolvió todas las observaciones iniciales y llevó el proyecto al nivel técnico y documental que se esperaba.
 
-## Índice
+> **Integrantes del equipo**
+>
+> - Cristian Chávez Guía | A01710680
+> - Kevin Alejandro Ramírez Luna | A01711063
+> - Diego Antonio García Padilla | A01710777
+> - José Eduardo Viveros Escamilla | A01710605
+> - Fidel Alexander Bonilla Montalvo | A01798199
+> - Guadalupe Paulina López Cuevas | A01701095
+> - Ángel Mauricio Ramírez Herrera | A01710158
 
-1. Business Understanding
-   1. Descripción del Contenido
-   2. Reporte de Alineación del Proyecto
-   3. Business Objectives (Background)
-   4. Business Objectives (Business Objectives)
-   5. Business Objectives (Success Criteria)
-   6. Assess Situation (Inventory of Resources)
-   7. Assess Situation (Requirements, Assumptions and Constraints)
-   8. Assess Situation (Risks and Contingencies)
-   9. Assess Situation (Terminology)
-   10. Assess Situation (Costs and Benefits)
-   11. Data Mining Goals (Mining Goals and Success Criteria)
-2. Data Understanding
-   1. Descripción del Contenido
-   2. Reporte de Comprensión de Datos
-   3. Collection Report (Fuentes de Datos)
-   4. Collection Report (Métodos usados para la obtención de datos)
-   5. Collection Report (Problemas para obtener datos)
-   6. Collection Report (Decisiones sobre datos adicionales)
-   7. Collection Report (Notas y solución a los problemas)
-   8. Collection Report (Verificación de la integridad de los datos)
-   9. Collection Report (Consistencia entre datasets)
-   10. Collection Report (Relevancia de cada fuente)
-   11. ID Vaca (1204–8794)
-       1. Description Report (ID Vaca)
-       2. Exploration Report (ID Vaca)
-       3. Quality Report (ID Vaca)
-   12. Reporte
-       1. Description Report (Reporte)
-       2. Exploration Report (Reporte)
-       3. Quality Report (Reporte)
-   13. Inventario
-       1. Description Report (Inventario)
-       2. Exploration Report (Inventario)
-       3. Quality Report (Inventario)
-   14. Patadas
-       1. Description Report (Patadas)
-       2. Exploration Report (Patadas)
-       3. Quality Report (Patadas)
-   15. Ficha Vaca
-       1. Description Report (Patadas)
-       2. Exploration Report (Patadas)
-       3. Quality Report (Patadas)
-   16. Registro Ordeño
-       1. Description Report (Registro Ordeño)
-       2. Exploration Report (Registro Ordeño)
-       3. Quality Report (Registro Ordeño)
-   17. Global HATO
-       1. Description Report (Global HATO)
-       2. Exploration Report (Global HATO)
-       3. Quality Report (Global HATO)
-   18. Registro Ordeño HATO
-       1. Description Report (Registro Ordeño HATO)
-       2. Exploration Report (Registro Ordeño HATO)
-       3. Quality Report (Registro Ordeño HATO)
-   19. Ficha Vacas HATO
-       1. Description Report (Ficha Vacas HATO)
-       2. Exploration Report (Ficha Vacas HATO)
-       3. Quality Report Ficha Vacas HATO)
-3. Data Preparation 1
-   1. Descripción del Contenido
-   2. Reporte de Preparación de Datos
-   3. Resumen de la Preparación de Datos
-   4. Enfoque Iterativo
-   5. Limpieza (Primera iteración)
-   6. Transformaciones (Primera iteración)
-   7. Feature engineering (Primera iteración)
-   8. Merge de los Datasets (Primera iteración)
-   9. Creación de dataset final (Primera iteración)
-   10. Descripción del dataset final (Primera iteración)
-4. Modeling
-   1. Descripción del Contenido
-   2. Reporte de Modelado
-   3. Modeling Technique (Primera iteración)
-   4. Test Design (Primera iteración)
-   5. Model Overview (Primera iteración)
-   6. Results Evaluation (Primera iteración)
-5. Data Preparation 2
-   1. Limpieza (Segunda iteración)
-   2. Transformaciones (Segunda iteración)
-   3. Feature engineering (Segunda iteración)
-   4. Merge de los Datasets (Segunda iteración)
-   5. Creación de dataset final (Segunda iteración)
-   6. Descripción del dataset final (Segunda iteración)
-6. Modeling 2
-   1. Modeling Technique (Segunda iteración)
-   2. Test Design (Segunda iteración)
-   3. Model Overview (Segunda iteración)
-   4. Results Evaluation (Segunda iteración)
-7. Data Preparation 3
-   1. Limpieza (Tercera iteración)
-   2. Transformaciones (Tercera iteración)
-   3. Features engineering (Tercera iteración)
-   4. Merge de los Datasets (Tercera iteración)
-   5. Creación de dataset final (Tercera iteración)
-   6. Descripción del dataset final (Tercera iteración)
-8. Modeling 3
-   1. Modeling Technique (Tercera iteración)
-   2. Test Design (Tercera iteración)
-   3. Model Overview (Tercera iteración)
-   4. Results Evaluation (Tercera iteración)
-9. Evaluation
-   1. Descripción del Contenido
-   2. Reporte de Evaluación
-   3. Evaluate Results
-   4. Review Process
-   5. Determine Next Steps
-10. Deployment
-    1. Produce Final Report (Final Report)
+---
+
+## Estructura del repositorio
+
+---
+
+<img width="474" height="740" alt="image" src="https://github.com/user-attachments/assets/049fd38b-47dd-4b4c-a471-d56c05cafdfd" />
