@@ -79,6 +79,8 @@ Después de recibir la retroalimentación, reestructuramos completamente el entr
 > - Guadalupe Paulina López Cuevas | A01701095
 > - Ángel Mauricio Ramírez Herrera | A01710158
 
+Link de la aplicación web: https://github.com/CristianChG/prueba-arquitectura-vss
+
 ---
 
 ## Estructura del repositorio
